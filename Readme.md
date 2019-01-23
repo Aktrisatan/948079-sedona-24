@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Татьяна Федорова](https://up.htmlacademy.ru/htmlcss/24/user/948079).
-* Наставник: [Юлия Антонова] (https://htmlacademy.ru/profile/id39082).
+* Наставник: [Юлия Антонова](https://htmlacademy.ru/profile/id39082).
 
 ---
 
